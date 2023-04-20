@@ -9,8 +9,8 @@ const AppFooter = () => {
     return (
         <div className="layout-footer">
             <img src={`${contextPath}/layout/images/tabit.png`} alt="Logo" height="60" className="mr-2" />
-            By
-            <span className="font-medium ml-2">TABIT Solutions</span>
+            Powered By
+            <span className="font-medium ml-2">Pumpkin Tribe</span>
         </div>
     );
 };
