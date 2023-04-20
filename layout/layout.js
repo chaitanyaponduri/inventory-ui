@@ -112,7 +112,7 @@ const Layout = (props) => {
                 <meta name="robots" content="index, follow" />
                 <meta name="viewport" content="initial-scale=1, width=device-width" />
                 <meta property="og:type" content="website"></meta>
-                <meta property="og:title" content="APP by Pumpkin Tribe | Admin Template for NextJS"></meta>
+                <meta property="og:title" content="APP by React & Go Dev | Admin Template for NextJS"></meta>
                 <meta property="og:url" content="https://react.dev"></meta>
                 <meta property="og:description" content="The ultimate collection of design-agnostic, flexible and accessible React UI Components." />
                 <meta property="og:image" content="https://en.wikipedia.org/wiki/React_%28software%29#/media/File:React-icon.svg"></meta>
