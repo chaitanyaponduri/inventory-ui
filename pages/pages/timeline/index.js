@@ -23,7 +23,7 @@ const TimelineDemo = () => {
 
     const customizedContent = (item) => {
         return (
-            <Card title={item.status} subTitle={item.date}>
+          /*  <Card title={item.status} subTitle={item.date}>
                 {item.image && (
                     <img src={`${contextPath}/demo/images/product/${item.image}`} onError={(e) => (e.target.src = 'https://www.primefaces.org/wp-content/uploads/2020/05/placeholder.png')} alt={item.name} width={200} className="shadow-2 mb-3" />
                 )}
@@ -32,7 +32,7 @@ const TimelineDemo = () => {
                     quas!
                 </p>
                 <Button label="Read more" className="p-button-text"></Button>
-            </Card>
+            </Card>*/
         );
     };
 
