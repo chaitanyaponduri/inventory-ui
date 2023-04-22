@@ -8,10 +8,9 @@ const AppFooter = () => {
     //logo-${layoutConfig.colorScheme === 'light' ? 'dark' : 'white'}.svg`
     return (
         <div className="layout-footer">
-          /*  In Association with
-            <img src={`${contextPath}/layout/images/tabit.png`} alt="Logo" height="60" className="mr-2" />
-            Powered By */
+       
             <span className="font-medium ml-2">Copyright 2023 All Rights Reserved.</span>
+        
         </div>
     );
 };
